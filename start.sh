@@ -1,1 +1,1 @@
-export PYTHONPATH=/var/lib/domogik && /usr/bin/python bin/vdevice.py -f
+export PYTHONPATH=/var/lib/domogik && /usr/bin/python3 bin/vdevice.py -f
